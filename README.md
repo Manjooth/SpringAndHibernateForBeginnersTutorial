@@ -1,5 +1,5 @@
 # SpringAndHibernateForBeginnersTutorial
-Following: Spring 5: Learn Spring 5 Core, AOP, Spring MVC, Spring Security, Spring REST, Spring Boot 2, Thymeleaf, JPA & Hibernate
+Following the **_Spring 5: Learn Spring 5 Core, AOP, Spring MVC, Spring Security, Spring REST, Spring Boot 2, Thymeleaf, JPA & Hibernate_** tutorial
 
 Source code:
 `git clone https://github.com/darbyluv2code/spring-and-hibernate-for-beginners.git`
